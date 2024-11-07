@@ -16,9 +16,9 @@ IMAP_SERVER = 'imap.gmail.com'
 IMAP_PORT = 993
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-TARGET_EMAIL_ADDRESS = 'dtools.incorporation@gmail.com'  # Replace with your target email address
-EMAIL_PASSWORD = 'mnkonzasbyuwocgv'  # Use your email app password here
-OPENAI_API_KEY = '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'  # Replace with your OpenAI API key
+TARGET_EMAIL_ADDRESS = ''  # Replace with your target email address
+EMAIL_PASSWORD = ''  # Use your email app password here
+OPENAI_API_KEY = ''  # Replace with your OpenAI API key
 
 
 
