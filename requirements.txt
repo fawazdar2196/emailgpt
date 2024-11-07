@@ -1,0 +1,7 @@
+openai
+ics
+pytz
+streamlit
+emails
+secure-smtplib
+imaplib2
