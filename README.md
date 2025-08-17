@@ -1,26 +1,26 @@
-📧 EmailGPT – AI-Powered Email Processor
+# 📧 EmailGPT – AI-Powered Email Processor  
 
-An intelligent email processing system built with Python and GPT integration. The project includes automation scripts for parsing, analyzing, and responding to emails, along with a Streamlit app for user interaction.
-📌 Features
+**EmailGPT** An intelligent email processing system built with Python and GPT integration. The project includes automation scripts for parsing, analyzing, and responding to emails, along with a Streamlit app for user interaction.  
 
-GPT-powered custom email response generation
+---
 
-Email parsing and text extraction
+## 🚀 Features  
+- GPT-powered custom email response generation
 
-PDF handling using Aspose library
+- Email parsing and text extraction
 
-Streamlit interface for demo and testing
+- PDF handling using Aspose library
 
-Support for ICS calendar integration
+- Streamlit interface for demo and testing
 
-Test scripts and sample data included
+- Support for ICS calendar integration
 
-🛠️ Tech Stack
+- Test scripts and sample data included
+---
 
-Python 3.9+
+## ⚙️ Installation  
 
-Streamlit (UI)
-
-Aspose PDF (document processing)
-
-OpenAI API / GPT (natural language processing)
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/fawazdar2196/emailgpt.git
+   cd emailgpt
